@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Jack, a pharmacist from Cork, Ireland. Having worked previously in community, hospital, and industry settings, I am now a PhD student in Computational Pharmaceutics at the [School of Pharmacy, University College Cork](https://www.ucc.ie/en/pharmacy/). My research focuses on the use of cheminformatics to support the formulation of oral small molecule drugs. My work is currently funded by the Irish Research Council.
+I'm Jack, a pharmacist from Cork, Ireland. Having worked previously in community, hospital, and industry settings, I am now a PhD student in Computational Pharmaceutics at the [School of Pharmacy, University College Cork](https://www.ucc.ie/en/pharmacy/). My research focuses on the use of cheminformatics to support the formulation of oral small molecule drugs. My work is funded by the Irish Research Council.
 
 Currently, I am a Fulbright Visiting Scientist at the [University of Maryland School of Pharmacy](https://www.pharmacy.umaryland.edu/), where I am working on mathematical models of oral drug absorption.
 
